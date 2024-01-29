@@ -15,3 +15,8 @@ header .row {
     margin: 0 auto;
     max-width: 1200px;
 }
+
+header .logo {
+    font-size: 24px;
+    font-weight: 700;
+}
