@@ -6,3 +6,12 @@ body {
 header {
     color: #ffffff;
 }
+
+header .row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
