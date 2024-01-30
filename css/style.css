@@ -34,5 +34,5 @@ header nav ul li {
 
 /* エインビジュアル */
 .main_visual {
-    background-images: url('../images/mv.jpg');
+    background-image: url('../images/mv.jpg');
 }
