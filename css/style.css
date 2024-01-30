@@ -44,6 +44,7 @@ header nav ul li {
     margin: 0 auto;
     max-width: 1200px;
     height: 640px;
+    position: relative;
 }
 
 .main_visual  .title {
