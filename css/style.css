@@ -46,6 +46,11 @@ header nav ul li {
     height: 640px;
 }
 
+.main_visual  .title {
+    position: absolute;
+    bottom: 400px;
+}
+
 .main_visual h1 {
     font-size: 70px;
     font-weight: 700;
