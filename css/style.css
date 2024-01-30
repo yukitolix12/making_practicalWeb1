@@ -35,4 +35,6 @@ header nav ul li {
 /* エインビジュアル */
 .main_visual {
     background-image: url('../images/mv.jpg');
+    background-size: cover;
+    background-position: center center;
 }
