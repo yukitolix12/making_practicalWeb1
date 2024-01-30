@@ -38,3 +38,9 @@ header nav ul li {
     background-size: cover;
     background-position: center center;
 }
+
+.main_visual .container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
