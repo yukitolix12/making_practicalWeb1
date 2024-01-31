@@ -37,6 +37,7 @@ header nav ul li {
     background-image: url('../images/mv.jpg');
     background-size: cover;
     background-position: center top;
+    position: relative;
 }
 
 .main_visual .container {
