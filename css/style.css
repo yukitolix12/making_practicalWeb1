@@ -78,3 +78,9 @@ header nav ul li {
     z-index: 1;
     mix-blend-mode: multiply;
 }
+
+/* section1 */
+.section1 {
+    color: #ffffff;
+    padding: 80px 0;
+}
