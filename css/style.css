@@ -95,3 +95,7 @@ header nav ul li {
     display: flex;
     justify-content: space-between;
 }
+.section1 .col {
+    width: 48%;
+    background-color: red;
+}
