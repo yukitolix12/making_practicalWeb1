@@ -104,3 +104,9 @@ header nav ul li {
     font-weight: 500;
     margin-bottom: 20px;
 }
+
+.section1 h2 {
+    font-size: 40px;
+    font-weight: 700; 
+    line-height: 1.5;
+}
