@@ -90,3 +90,8 @@ header nav ul li {
     margin: 0 auto;
     max-width: 1200px;
 }
+
+.section1 .row {
+    display: flex;
+    justify-content: space-between;
+}
