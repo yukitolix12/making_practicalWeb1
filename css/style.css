@@ -36,6 +36,11 @@ header nav ul li a {
     transition: .2s;
 }
 
+header nav ul li a:hover {
+    transition: .2s;
+    opacity: 0.6;
+}
+
 /* エインビジュアル */
 .main_visual {
     background-image: url('../images/mv.jpg');
