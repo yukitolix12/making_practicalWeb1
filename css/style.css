@@ -127,3 +127,9 @@ header nav ul li {
     line-height: 60px;
     text-align: center;
 }
+
+.section1 .btn:hover {
+    color: #60188f;
+    border: solid 1px #60188f; 
+    transition: .2s;
+}
