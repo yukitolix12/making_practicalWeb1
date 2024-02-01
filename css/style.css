@@ -126,6 +126,7 @@ header nav ul li {
     width: 270px;
     line-height: 60px;
     text-align: center;
+    transition: .2s;
 }
 
 .section1 .btn:hover {
