@@ -32,6 +32,10 @@ header nav ul li {
     margin-left: 50px;
 }
 
+header nav ul li a {
+    transition: .2s;
+}
+
 /* エインビジュアル */
 .main_visual {
     background-image: url('../images/mv.jpg');
