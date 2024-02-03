@@ -145,12 +145,12 @@ header nav ul li a:hover {
 }
 
 /* section2 */
-.section1 {
+.section2 {
     color: #ffffff;
     padding: 80px 0;
 }
 
-.section1 .container {
+.section2 .container {
     width: 90%;
     margin: 0 auto;
     max-width: 1200px;
