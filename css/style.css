@@ -143,3 +143,15 @@ header nav ul li a:hover {
     border: solid 1px #60188f; 
     transition: .2s;
 }
+
+/* section2 */
+.section1 {
+    color: #ffffff;
+    padding: 80px 0;
+}
+
+.section1 .container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
