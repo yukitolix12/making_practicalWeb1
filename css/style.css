@@ -167,3 +167,11 @@ header nav ul li a:hover {
     font-weight: 700;
     margin-bottom: 60px;
 }
+
+.section2 .row {
+    display: flex;
+    justify-content: space-between;
+}
+.section2 .col {
+    width: 48%;
+}
