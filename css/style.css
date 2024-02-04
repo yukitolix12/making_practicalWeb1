@@ -175,3 +175,7 @@ header nav ul li a:hover {
 .section2 .col {
     width: 31%;
 }
+
+.section2 img {
+    border-radius: 20px;
+}
