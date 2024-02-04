@@ -192,3 +192,7 @@ header nav ul li a:hover {
     padding: 6px 20px;
     border-radius: 10px;
 }
+
+.section2 .center {
+    text-align: center;
+}
