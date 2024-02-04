@@ -220,3 +220,8 @@ header nav ul li a:hover {
     font-weight: 700;
     margin-bottom: 60px;
 }
+
+.section3 .row {
+    display: flex;
+    justify-content: space-between;
+}
