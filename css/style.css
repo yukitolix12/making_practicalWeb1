@@ -138,7 +138,7 @@ header nav ul li a:hover {
     transition: .2s;
 }
 
-.section1 .btn:hover {
+.btn:hover {
     color: #60188f;
     border: solid 1px #60188f; 
     transition: .2s;
