@@ -171,6 +171,7 @@ header nav ul li a:hover {
 .section2 .row {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 60px;
 }
 .section2 .col {
     width: 31%;
