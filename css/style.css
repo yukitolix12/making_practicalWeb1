@@ -179,3 +179,9 @@ header nav ul li a:hover {
 .section2 img {
     border-radius: 20px;
 }
+
+.section2 h3 {
+    background-color: #60188f;
+    display: inline-block;
+    position: absolute;
+}
