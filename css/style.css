@@ -224,6 +224,7 @@ header nav ul li a:hover {
 .section3 .row {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .section3 .col {
