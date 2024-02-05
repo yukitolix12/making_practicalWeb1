@@ -247,8 +247,10 @@ footer {
     font-size: 12px;
 }
 
-.section3 .container {
+footer .container {
     width: 90%;
     margin: 0 auto;
     max-width: 1200px;
+    border-top: solid 1px #60188f;
+    padding: 50px 0 20px;
 }
