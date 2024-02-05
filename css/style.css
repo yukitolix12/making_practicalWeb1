@@ -261,3 +261,9 @@ footer .logo {
     display: inline-block;
     margin-bottom: 40px;
 }
+
+footer ul {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+}
