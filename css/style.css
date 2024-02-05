@@ -254,3 +254,10 @@ footer .container {
     border-top: solid 1px #60188f;
     padding: 50px 0 20px;
 }
+
+footer .logo {
+    font-size: 20px;
+    font-weight: 700;
+    display: inline-block;
+    margin-bottom: 40px;
+}
