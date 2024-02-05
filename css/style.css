@@ -246,3 +246,9 @@ footer {
     text-align: center;
     font-size: 12px;
 }
+
+.section3 .container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
