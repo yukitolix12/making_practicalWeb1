@@ -272,3 +272,7 @@ footer ul li {
     font-size: 15px;
     margin: 0 20px;
 }
+
+footer ul li a {
+    transition: .2s;
+}
