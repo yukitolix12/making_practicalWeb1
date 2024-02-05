@@ -267,3 +267,8 @@ footer ul {
     justify-content: center;
     margin-bottom: 60px;
 }
+
+footer ul li {
+    font-size: 15px;
+    margin: 0 20px;
+}
