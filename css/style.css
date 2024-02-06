@@ -1,3 +1,8 @@
+/* スマホサイズのメディアクエリ */
+@media only screen and (max-width: 480px) {
+    
+}
+
 /* 全体共通 */
 body {
     font-family: 'Noto Sans 3P', sans-serif;
