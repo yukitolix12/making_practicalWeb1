@@ -144,6 +144,10 @@ header nav ul li a:hover {
     transition: .2s;
 }
 
+@media only screen and (max-width: 480px) {
+    /*.main_visual h1 {color: red;} */
+}
+
 /* section2 */
 .section2 {
     color: #ffffff;
@@ -282,23 +286,5 @@ footer ul li a:hover {
     opacity: 0.6;
 }
 
-/* スマホサイズのメディアクエリ */
-@media only screen and (max-width: 480px) {
-    /*.main_visual h1 {color: red;} */
-}
 
-/* タブレットサイズのメディアクエリ */
-@media only screen and (min-width: 481px) and (max-width: 760px) {
-    .main_visual h1 {color: green;} 
-}
-
-/* スマホサイズ&タブレットサイズのメディアクエリ */
-@media only screen and (max-width: 760px) {
-    
-}
-
-/* スマホサイズ&タブレットサイズのメディアクエリ */
-@media only screen and (max-width: 960px) {
-    
-}
 
