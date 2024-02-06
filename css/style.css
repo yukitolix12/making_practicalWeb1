@@ -8,6 +8,17 @@
     
 }
 
+/* スマホサイズ&タブレットサイズのメディアクエリ */
+@media only screen and (max-width: 760px) {
+    
+}
+
+/* スマホサイズ&タブレットサイズのメディアクエリ */
+@media only screen and (max-width: 960px) {
+    
+}
+
+
 /* 全体共通 */
 body {
     font-family: 'Noto Sans 3P', sans-serif;
