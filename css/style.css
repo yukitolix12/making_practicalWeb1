@@ -45,6 +45,10 @@ header nav ul li a:hover {
     header .row {
         display: block;
     }    
+    header nav ul {
+        display: flex;
+    }
+    
 }
 
 /* メインビジュアル */
