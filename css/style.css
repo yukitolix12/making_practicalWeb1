@@ -146,8 +146,6 @@ header nav ul li a:hover {
 
 @media only screen and (max-width: 960px) {
     .section1 .row {
-        display: flex;
-        justify-content: space-between;
         flex-wrap: wrap;
     }
     .section1 .col {
