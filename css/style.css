@@ -144,8 +144,12 @@ header nav ul li a:hover {
     transition: .2s;
 }
 
-@media only screen and (max-width: 480px) {
-    /*.main_visual h1 {color: red;} */
+@media only screen and (max-width: 960px) {
+    
+}
+
+@media only screen and (max-width: 960px) {
+    
 }
 
 /* section2 */
