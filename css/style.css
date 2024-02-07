@@ -148,9 +148,10 @@ header nav ul li a:hover {
     .section1 .row {
         display: flex;
         justify-content: space-between;
+        flex-wrap: wrap;
     }
     .section1 .col {
-        width: 48%;
+        width: 100%;
     }
 }
 
