@@ -151,6 +151,11 @@ header nav ul li a:hover {
     .section1 .col {
         width: 100%;
     }
+    .section1 h2 {
+        font-size: 40px;
+        font-weight: 700; 
+        line-height: 1.6;
+    }
 }
 
 /* section2 */
