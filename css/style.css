@@ -49,7 +49,7 @@ header nav ul li a:hover {
         justify-content: space-between;
     }
     header nav ul li {
-        margin-left: 50px;
+        margin-left: 0;
     }
     
 }
