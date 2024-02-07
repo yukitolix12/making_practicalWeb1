@@ -46,7 +46,7 @@ header nav ul li a:hover {
         display: block;
     }    
     header nav ul {
-        display: flex;
+        justify-content: space-between;
     }
     
 }
