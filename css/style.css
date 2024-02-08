@@ -107,11 +107,7 @@ header nav ul li a:hover {
         font-size: 52px;
     }
     .main_visual .container {
-        width: 90%;
-        margin: 0 auto;
-        max-width: 1200px;
-        height: 640px;
-        position: relative;
+        height: 540px;
     }      
 }
 
