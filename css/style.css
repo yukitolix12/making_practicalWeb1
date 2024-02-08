@@ -245,8 +245,7 @@ header nav ul li a:hover {
         margin-bottom: 60px;
     }
     .section2 .col {
-        width: 31%;
-        position: relative;
+        width: 100%;
     }
 }
 
