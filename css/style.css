@@ -103,7 +103,12 @@ header nav ul li a:hover {
 }
 
 @media only screen and (max-width: 960px) {
-    
+    .main_visual h1 {
+        font-size: 70px;
+        font-weight: 700;
+        color: #ffffff;
+        margin-bottom: 24px;
+    }    
 }
 
 /* section1 */
