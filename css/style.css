@@ -102,6 +102,10 @@ header nav ul li a:hover {
     mix-blend-mode: multiply;
 }
 
+@media only screen and (max-width: 960px) {
+    
+}
+
 /* section1 */
 .section1 {
     color: #ffffff;
