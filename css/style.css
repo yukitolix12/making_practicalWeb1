@@ -345,14 +345,14 @@ footer ul li a:hover {
 }
 
 /* 仮想ページ共通 */
-.main_visual {
+.page_main_visual {
     background-image: url('../images/mv.jpg');
     background-size: cover;
     background-position: center top;
     position: relative;
 }
 
-.main_visual .container {
+.page_main_visual .container {
     width: 90%;
     margin: 0 auto;
     max-width: 1200px;
@@ -360,27 +360,27 @@ footer ul li a:hover {
     position: relative;
 }
 
-.main_visual  .title {
+.page_main_visual .title {
     position: absolute;
     bottom: 100px;
     left: 0;
     z-index: 2;
 }
 
-.main_visual h1 {
+.page_main_visual h1 {
     font-size: 70px;
     font-weight: 700;
     color: #ffffff;
     margin-bottom: 24px;
 }
 
-.main_visual p {
+.page_main_visual p {
     font-size: 24px;
     font-weight: 900;
     color: #ffffff;
 }
 
-.main_visual .purple {
+.page_main_visual.purple {
     background-color: #6f19a7;
     width: 100%;
     height: 100%;
