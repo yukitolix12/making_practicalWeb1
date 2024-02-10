@@ -380,7 +380,7 @@ footer ul li a:hover {
     color: #ffffff;
 }
 
-.page_main_visual.purple {
+.page_main_visual .purple {
     background-color: #6f19a7;
     width: 100%;
     height: 100%;
