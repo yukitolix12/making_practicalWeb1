@@ -365,6 +365,7 @@ footer ul li a:hover {
     top: 50%;
     left: 50%;
     z-index: 2;
+    transform: translateX(-50%) translateY(-50%);
 }
 
 .page_main_visual h1 {
