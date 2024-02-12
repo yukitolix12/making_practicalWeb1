@@ -394,10 +394,10 @@ footer ul li a:hover {
 }
 
 @media only screen and (max-width: 960px) {
-    .main_visual h1 {
+    .page_main_visual h1 {
         font-size: 52px;
     }
-    .main_visual .container {
+    .page_main_visual .container {
         height: 540px;
     }      
 }
