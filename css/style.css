@@ -402,53 +402,54 @@ footer ul li a:hover {
     }      
 }
 
-.section3 {
+/* 会社概要セクション1 */
+.company_section1 {
     color: #ffffff;
     padding: 80px 0;
 }
 
-.section3 .container {
+.company_section1 .container {
     width: 90%;
     margin: 0 auto;
     max-width: 1200px;
 }
 
-.section3 .sub_title {
+.company_section1 .sub_title {
     font-size: 20px;
     font-weight: 500;
     margin-bottom: 20px;
 }
 
-.section3 h2 {
+.company_section1 h2 {
     font-size: 30px;
     font-weight: 700;
     margin-bottom: 40px;
 }
 
-.section3 .row {
+.company_section1 .row {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.section3 .col {
+.company_section1 .col {
     width: 48%;
 }
 
-.section3 .text {
+.company_section1.text {
     line-height: 1.8;
     margin-bottom: 50px;
 }
 
-.section3 img {
+.company_section1 img {
     border-radius: 20px;
 }
 
 @media only screen and (max-width: 960px) {
-    .section3 .row {
+    .company_section1 .row {
         flex-wrap: wrap;
     }
-    .section3 .col {
+    .company_section1 .col {
         width: 100%;
         margin-bottom: 30px;
     }    
