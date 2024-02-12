@@ -414,18 +414,6 @@ footer ul li a:hover {
     max-width: 1200px;
 }
 
-.company_section1 .sub_title {
-    font-size: 20px;
-    font-weight: 500;
-    margin-bottom: 20px;
-}
-
-.company_section1 h2 {
-    font-size: 30px;
-    font-weight: 700;
-    margin-bottom: 40px;
-}
-
 .company_section1 .row {
     display: flex;
     justify-content: space-between;
@@ -434,11 +422,6 @@ footer ul li a:hover {
 
 .company_section1 .col {
     width: 48%;
-}
-
-.company_section1.text {
-    line-height: 1.8;
-    margin-bottom: 50px;
 }
 
 .company_section1 img {
