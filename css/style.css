@@ -451,5 +451,8 @@ footer ul li a:hover {
         width: 100%;
         margin-bottom: 30px;
     }    
+    .company_section1 table tr th {
+        width: 150px;
+    }
 }
 
