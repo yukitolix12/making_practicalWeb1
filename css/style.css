@@ -436,6 +436,7 @@ footer ul li a:hover {
     padding: 20px 0;
     display: block;
     border-bottom: solid 1px #ffffff;
+    line-height: 1.5;
 }
 
 .company_section1 table tr th {
