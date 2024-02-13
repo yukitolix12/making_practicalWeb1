@@ -428,6 +428,10 @@ footer ul li a:hover {
     border-radius: 20px;
 }
 
+.company_section1 table {
+    width: 100%;
+}
+
 @media only screen and (max-width: 960px) {
     .company_section1 .row {
         flex-wrap: wrap;
