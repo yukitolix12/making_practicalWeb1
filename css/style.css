@@ -510,13 +510,13 @@ footer ul li a:hover {
     }    
 }
 
-/* 事業内容セクション1 */
-.service_section1 {
+/* お問い合わせセクション1 */
+.contact_section1 {
     color: #ffffff;
     padding: 80px 0;
 }
 
-.service_section1 .container {
+.contact_section1 .container {
     width: 90%;
     margin: 0 auto;
     max-width: 1200px;
