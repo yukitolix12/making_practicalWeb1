@@ -509,3 +509,15 @@ footer ul li a:hover {
         margin-bottom: 30px;
     }    
 }
+
+/* 事業内容セクション1 */
+.service_section1 {
+    color: #ffffff;
+    padding: 80px 0;
+}
+
+.service_section1 .container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
